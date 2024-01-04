@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/traffic-highway/static/css/main.e02e825a.css",
-    "main.js": "/traffic-highway/static/js/main.bc85fd99.js",
+    "main.js": "/traffic-highway/static/js/main.ef6ce6ae.js",
     "static/js/787.d4aba7ab.chunk.js": "/traffic-highway/static/js/787.d4aba7ab.chunk.js",
     "index.html": "/traffic-highway/index.html",
     "main.e02e825a.css.map": "/traffic-highway/static/css/main.e02e825a.css.map",
-    "main.bc85fd99.js.map": "/traffic-highway/static/js/main.bc85fd99.js.map",
+    "main.ef6ce6ae.js.map": "/traffic-highway/static/js/main.ef6ce6ae.js.map",
     "787.d4aba7ab.chunk.js.map": "/traffic-highway/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e02e825a.css",
-    "static/js/main.bc85fd99.js"
+    "static/js/main.ef6ce6ae.js"
   ]
 }
